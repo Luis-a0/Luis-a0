@@ -3,7 +3,7 @@
 - 👀 I’m interested in Computer science and Artificial intelligence
 - 🌱 I’m currently learning Machine learning and Data science
 - 💞️ I’m looking to collaborate on Projects or activities associated with computer science, particularly those related to artificial intelligence
-- 📫 How to reach me through [Linkedin](https://www.linkedin.com/in/lmaviles) and lumaaviles0@gmail.com
+- 📫 How to reach me through [Linkedin](https://www.linkedin.com/in/luismanuelaviles-developer/) and lumaaviles0@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
